@@ -1,2 +1,3 @@
 # hello-world
 not sure yet...
+Hi, trying to learn some coding here, hopefully that will work out!
